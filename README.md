@@ -1,4 +1,4 @@
-# 🚀 HR Claim Handler – AWS Lambda Function
+# 🚀 HR Claim Handler – AWS Lambda Function (ALPHA version)
 
 This Lambda function handles HR-related claim requests. It supports both `GET` and `POST` methods and extracts the `claim_id` from the request.
 
