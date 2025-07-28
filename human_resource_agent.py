@@ -1,4 +1,5 @@
 import boto3
+import json
 iam_client = boto3.client("iam")
 
 # Create IAM policies for agent
