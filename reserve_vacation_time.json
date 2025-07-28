@@ -1,0 +1,24 @@
+{
+  "name": "reserve_vacation_time",
+  "description": "Reserve vacation time for a specific employee.",
+  "parameters": [
+    {
+      "name": "employee_id",
+      "description": "Id of employee for which time off will be reserved",
+      "required": "True",
+      "type": "string"
+    },
+    {
+      "name": "end_date",
+      "description": "End date of vacation time in the format YYYY-MM-DD",
+      "required": "False",
+      "type": "string"
+    },
+    {
+      "name": "start_date",
+      "description": "Start date of vacation time in the format YYYY-MM-DD",
+      "required": "True",
+      "type": "string"
+    }
+  ]
+}
