@@ -143,7 +143,3 @@ aws logs describe-log-streams --log-group-name /aws/lambda/hr-claim-handler
 ---
 
 ## ✅ Done!
-
-Your Lambda function is now live and ready to process HR claim requests! 🎉
-
-Would you like to integrate it with an API Gateway next? 🤖
