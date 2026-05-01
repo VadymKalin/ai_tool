@@ -140,6 +140,3 @@ aws logs describe-log-streams --log-group-name /aws/lambda/hr-claim-handler
 --region us-west-2
 ```
 
----
-
-## ✅ Done!
